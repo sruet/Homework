@@ -13,8 +13,8 @@ permalink: /HW2/
   <h2> Here's a smaller heading </h2>
   <p> 
     This is a paragraph <br>
-  **this will be bold** <br>
-  ~~this will be strikethrough~~ <br>
+  <b> this will be bold </b> <br>
+  <s> this will be strikethrough </s> <br>
   <u> this will be underlined </u>
 
   <h2> Lists </h2>
@@ -22,16 +22,15 @@ permalink: /HW2/
   - item one <br>
   - item two <br>
     - item a <br>
-    - item b
+    - item b <br>
   
   <h1> Ordered </h1>
   1. Item 1 <br>
   2. Item 2 <br>
   3. Item 3 <br>
-  4. item 3a
+  4. item 3a <br>
   
-  
-  <h1> Table </h1>
+  <h2> Table </h2>
 
 | Command | Description |
 | ------: | :---------- |
@@ -41,8 +40,8 @@ permalink: /HW2/
 
 <br>
 
-> This is a quote <br>
-
+> This is a quote <be>
+<br>
 This is a link to [Google](https://google.com/)
 
 </p>
