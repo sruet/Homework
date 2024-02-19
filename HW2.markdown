@@ -23,6 +23,8 @@ permalink: /HW2/
   2. Item 2 <br>
   3. Item 3 <br>
   4. item 3a <br>
+
+</p>
   
   <h2> Table </h2>
 
@@ -39,4 +41,4 @@ permalink: /HW2/
 <br>
 This is a link to [Google](https://google.com/)
 
-</p>
+
