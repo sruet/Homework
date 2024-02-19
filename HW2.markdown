@@ -3,8 +3,8 @@ layout: page
 title: HW2
 permalink: /HW2/
 ---
-  <h1> This is a heading </h1>
-  <h2> Here's a smaller heading </h2>
+  <h2> This is a heading </h2>
+  <h1> Here's a smaller heading </h1>
   <p> 
     This is a paragraph 
   <b> this will be bold </b> 
