@@ -10,14 +10,14 @@ permalink: /HW2/
 
 This is a paragraph
 
-**this will be bold** ~~this will be strike through~~ __this will be underlined__
+**this will be bold** ~~this will be strike through~~ <u> this will be underlined </u>
 
 ## Lists
 ### Unordered
-* item one
-* item two
-    * item a
-    * item b
+- item one
+- item two
+    - item a
+    - item b
 
 ### Ordered
 1. Item 1
