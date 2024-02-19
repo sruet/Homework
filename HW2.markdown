@@ -3,7 +3,6 @@ layout: page
 title: HW2
 permalink: /HW2/
 ---
-<!DOCTYPE html>
 <html>
 <head>
     <title></title>
