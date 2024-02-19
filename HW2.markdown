@@ -11,12 +11,12 @@ permalink: /HW2/
 <body>
   <h1> This is a heading </h1>
   <h2> Here's a smaller heading </h2>
-  <p> This is a paragraph</p>
-  **this will be bold**
-  ~~this will be strikethrough~~
+  <p> 
+    This is a paragraph <br>
+  **this will be bold** <br>
+  ~~this will be strikethrough~~ <br>
   <u> this will be underlined </u>
 
-  <p>
   <h2> Lists </h2>
   <h1> Unordered </h1>
   - item one <br>
