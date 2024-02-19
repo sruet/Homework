@@ -14,10 +14,10 @@ permalink: /HW2/
   <h2> Lists </h2>
   <h1> Unordered </h1>
   
-    -  item one <br>
-    -  item two <br>
-       -   item a <br>
-       -   item b <br>
+  - item one <br>
+  - item two <br>
+    - item a <br>
+    - item b <br>
   
   <h1> Ordered </h1>
   
