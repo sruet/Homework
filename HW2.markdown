@@ -6,17 +6,17 @@ permalink: /HW2/
   <h2> This is a heading </h2>
   <h1> Here's a smaller heading </h1>
   <p> 
-    This is a paragraph 
+    This is a paragraph <br>
   <b> this will be bold </b> 
   <s> this will be strikethrough </s> 
   <u> this will be underlined </u>
 
   <h2> Lists </h2>
   <h1> Unordered </h1>
-   -  item one <br>
-   -  item two <br>
-      -   item a <br>
-      -   item b <br>
+    -  item one <br>
+    -  item two <br>
+       -   item a <br>
+       -   item b <br>
   
   <h1> Ordered </h1>
   1. Item 1 <br>
