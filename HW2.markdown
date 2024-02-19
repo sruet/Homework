@@ -39,6 +39,6 @@ permalink: /HW2/
 
 > This is a quote >
 <br>
-This is a link to [Google](https://google.com/)
+[This is a link to Google](https://google.com/)
 
 
