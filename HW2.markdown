@@ -19,10 +19,10 @@ permalink: /HW2/
 
   <h2> Lists </h2>
   <h1> Unordered </h1>
-  * item one <br>
-  * item two <br>
-    * item a <br>
-    * item b <br>
+  -  item one <br>
+  -  item two <br>
+     -  item a <br>
+     -  item b <br>
   
   <h1> Ordered </h1>
   1. Item 1 <br>
@@ -32,8 +32,6 @@ permalink: /HW2/
   
   <h2> Table </h2>
 
-<br>
-
 | Command | Description |
 | ------: | :---------- |
 | git add | Stage changes for commit |
@@ -41,8 +39,9 @@ permalink: /HW2/
 | git push | Upload local repository content to a remote repository |
 
 <br>
+<br>
 
-> This is a quote <be>
+> This is a quote <br>
 <br>
 This is a link to [Google](https://google.com/)
 
