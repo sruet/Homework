@@ -3,11 +3,6 @@ layout: page
 title: HW2
 permalink: /HW2/
 ---
-<html>
-<head>
-    <title></title>
-</head>
-<body>
   <h1> This is a heading </h1>
   <h2> Here's a smaller heading </h2>
   <p> 
@@ -45,7 +40,3 @@ permalink: /HW2/
 This is a link to [Google](https://google.com/)
 
 </p>
-
-  
-</body>
-</html>
