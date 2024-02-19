@@ -12,17 +12,17 @@ permalink: /HW2/
   <h1> This is a heading </h1>
   <h2> Here's a smaller heading </h2>
   <p> 
-    This is a paragraph <br>
-  <b> this will be bold </b> <br>
-  <s> this will be strikethrough </s> <br>
+    This is a paragraph 
+  <b> this will be bold </b> 
+  <s> this will be strikethrough </s> 
   <u> this will be underlined </u>
 
   <h2> Lists </h2>
   <h1> Unordered </h1>
-  - item one <br>
-  - item two <br>
-    - item a <br>
-    - item b <br>
+  * item one <br>
+  * item two <br>
+    * item a <br>
+    * item b <br>
   
   <h1> Ordered </h1>
   1. Item 1 <br>
@@ -31,6 +31,8 @@ permalink: /HW2/
   4. item 3a <br>
   
   <h2> Table </h2>
+
+<br>
 
 | Command | Description |
 | ------: | :---------- |
