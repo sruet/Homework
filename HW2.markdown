@@ -10,7 +10,7 @@ permalink: /HW2/
 
 This is a paragraph
 
-**this will be bold** ~~this will be strike through~~ __this will be underlined__
+**this will be bold** ~~this will be strike through~~ _this will be underlined_
 
 ## Lists
 ### Unordered
